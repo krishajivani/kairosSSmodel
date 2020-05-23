@@ -1,7 +1,7 @@
 # Kairos with iOS
 
 ## Project Summary
-The Jivy! Security System Model is a bare-bones model showing the various ways Kairos SDK/API can be utilized for human detection and recognition. Many Kairos features for still image manipulation are used. Live video facial recognition and analysis is currently in progress!
+The Security System Model is a bare-bones model showing the various ways Kairos SDK/API can be utilized for human detection and recognition. Many Kairos features for still image manipulation are used. Live video facial recognition and analysis is currently in progress!
 
 <img width="250" alt="MainFR" src="https://user-images.githubusercontent.com/45325370/82722915-3f554d00-9c90-11ea-8973-242a0ffb488e.png">  <img width="250" alt="EmotionFR" src="https://user-images.githubusercontent.com/45325370/82722944-85121580-9c90-11ea-8f0f-fe8fe5456219.png"> <img width="250" alt="GalleriesFR" src="https://user-images.githubusercontent.com/45325370/82722950-922f0480-9c90-11ea-8d8d-c5ce16d98f9f.png">
 
@@ -48,7 +48,7 @@ Get app\_id and app\_key:
 
 ## Projects credited:
 https://github.com/shanezzar/Kairos-Example-using-iOS-Swift <br>
-_This application incorporates Shanezzar's demo_
+_This Security System Model application incorporates Shanezzar's demo (link above)_
 
 <br>
 
