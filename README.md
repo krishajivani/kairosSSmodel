@@ -46,12 +46,12 @@ Get app\_id and app\_key from:
 
 ## Projects credited:
 https://github.com/shanezzar/Kairos-Example-using-iOS-Swift
-
+_This application incorporates Shanezzar's demo_
 
 <br>
 
 
-Feel free to use this for learning purposes! <br>
+Feel free to use this project for learning purposes! <br>
 
 
 
