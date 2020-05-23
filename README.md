@@ -33,6 +33,6 @@ https://github.com/shanezzar/Kairos-Example-using-iOS-Swift
 <br>
 
 Feel free to use this for learning purposes! <br>
-[Krisha]
+-Krisha
 
 
