@@ -7,7 +7,8 @@ Tab Bar Controller- Main: <br>
   * Enroll
   * Recognize 
 <br/>  
-Tab Bar Controller- Galleries: <br>
+Tab Bar Controller- Galleries: 
+<br>
   * Gallery- List All
   * Gallery- View
   * Gallery- Remove
