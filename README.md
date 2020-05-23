@@ -1,5 +1,18 @@
 # Kairos in Swift
 
+# Features (current)
+Used Kairos API for iOS to implement facial recognition and emotion analysis features. Specific implementations:
+Tab Bar Controller- Main:
+  Enroll
+  Recognize
+Tab Bar Controller- Galleries:
+  Gallery- List All
+  Gallery- View
+  Gallery- Remove
+  Gallery- Remove Subject
+Tab Bar Controller- Emotion Analysis:
+  POST /media  
+  
 
 # Supporting pods:
 Alamofire - [https://github.com/Alamofire/Alamofire](https://github.com/Alamofire/Alamofire)
@@ -31,6 +44,7 @@ https://github.com/shanezzar/Kairos-Example-using-iOS-Swift
 
 
 <br>
+
 
 Feel free to use this for learning purposes! <br>
 -Krisha
