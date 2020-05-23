@@ -4,11 +4,11 @@
 Used Kairos API for iOS to implement facial recognition and emotion analysis features. Specific implementations:
 <br/>
 Tab Bar Controller- Main:
-<br>
-<br/>
+<br> <br/>
   Enroll
+  <br/>
   Recognize
-<br/>  
+  
 Tab Bar Controller- Galleries:
   Gallery- List All
   Gallery- View
