@@ -1,15 +1,15 @@
 # Kairos in Swift
 
 ## Features (current)
-Used Kairos API for iOS to implement facial recognition and emotion analysis features. Specific implementations: <br/><br>
+Used Kairos API for iOS to implement facial recognition and emotion analysis features. Specific implementations: <br>
 Tab Bar Controller- Main: 
   * Enroll
-  * Recognize <br/><br>
+  * Recognize <br>
 Tab Bar Controller- Galleries:  
   * Gallery- List All
   * Gallery- View
   * Gallery- Remove
-  * Gallery- Remove Subject <br/><br>
+  * Gallery- Remove Subject <br>
 Tab Bar Controller- Emotion Analysis:
   * POST /media  
   
