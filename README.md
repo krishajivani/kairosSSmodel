@@ -44,7 +44,7 @@ Get app\_id and app\_key from:
 
 <br>
 
-## Projects recognized:
+## Projects credited:
 https://github.com/shanezzar/Kairos-Example-using-iOS-Swift
 
 
