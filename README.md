@@ -29,7 +29,7 @@ SwiftyJSON - [https://github.com/SwiftyJSON/SwiftyJSON](https://github.com/Swift
 <br>
 
 ## Usage:
-Put in your app\_id and app\_key in the ViewController.swift, CameraViewController.swift, GalleriesViewController.swift, and EmotionAnalysisController.swift
+Put in your app\_id and app\_key in ViewController.swift, CameraViewController.swift, GalleriesViewController.swift, and EmotionAnalysisController.swift
 
 
 ```swift
