@@ -3,6 +3,8 @@
 ## Project Summary
 The Jivy! Security System Model is a bare-bones model showing the various ways Kairos SDK/API can be utilized for human detection and recognition. Many Kairos features for still image manipulation are used. Live video facial recognition and analysis is currently in progress!
 
+<img width="410" alt="MainFR" src="https://user-images.githubusercontent.com/45325370/82722915-3f554d00-9c90-11ea-8973-242a0ffb488e.png">
+
 ## Features (current)
 Used Kairos for iOS to implement facial recognition and emotion analysis features. Specific implementations: <br>
 Tab Bar Controller- Main:
